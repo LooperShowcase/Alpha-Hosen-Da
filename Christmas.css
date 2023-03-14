@@ -1,0 +1,37 @@
+table, th, td {
+  border: 1px solid rgb(236, 13, 13);
+}
+
+h1 {
+  color: rgb(41, 235, 7);
+}
+
+body {
+  background-color: rgb(238, 211, 7);
+}
+
+table, th, td {
+  border: 1px solid rgb(7, 237, 214);
+}
+
+h1 {
+  color: rgb(15, 29, 95);
+}
+body { 
+  background-color: rgb(233, 232, 225);}
+  #div1 {
+    background-color:red;
+ }
+ .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: rgb(233, 232, 225);
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgb(233, 232, 225);
+  border: 1px solid rgb(233, 232, 225);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
